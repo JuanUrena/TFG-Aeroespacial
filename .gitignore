@@ -3,13 +3,11 @@
 
 # But not these files...
 !.gitignore
-!script.pl
-!template.latex
 # etc...
-*.gms
-*.gdx
-*.xlsx
-*.gpr
+!*.gms
+!*.gdx
+!*.xlsx
+!*.gpr
 # ...even if they are in subdirectories
 !*/
 !*/*/*/
